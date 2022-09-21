@@ -1,0 +1,2364 @@
+Running VERSE 1000K_CON_all_cell_type on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_all_cell_type: generate_weighted_edgelist finiehed
+2022-08-24 18:41:02,033 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:41:03,244 INFO Node IDs are numbers: True
+2022-08-24 18:41:07,590 INFO num vertices=2329; num edges=2459963;
+2022-08-24 18:41:08,110 INFO done.
+1000K_CON_all_cell_type: generate_bcsr finished
+nv: 2329, ne: 2459963
+Total steps (mil): 232.9
+
+Calculations took 36.788 s to run
+1000K_CON_all_cell_type: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_all_cell_type: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Ast_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Ast_raw: generate_weighted_edgelist finiehed
+2022-08-24 18:41:59,302 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:42:00,594 INFO Node IDs are numbers: True
+2022-08-24 18:42:04,931 INFO num vertices=2329; num edges=2556269;
+2022-08-24 18:42:05,461 INFO done.
+1000K_CON_Ast_raw: generate_bcsr finished
+nv: 2329, ne: 2556269
+Total steps (mil): 232.9
+
+Calculations took 37.2453 s to run
+1000K_CON_Ast_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Ast_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Ast_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Ast_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:42:58,016 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:42:59,379 INFO Node IDs are numbers: True
+2022-08-24 18:43:04,250 INFO num vertices=2329; num edges=2762589;
+2022-08-24 18:43:04,833 INFO done.
+1000K_CON_Ast_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2762589
+Total steps (mil): 232.9
+
+Calculations took 37.7304 s to run
+1000K_CON_Ast_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Ast_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Ast_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Ast_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:43:57,903 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:43:59,243 INFO Node IDs are numbers: True
+2022-08-24 18:44:04,012 INFO num vertices=2329; num edges=2763799;
+2022-08-24 18:44:04,604 INFO done.
+1000K_CON_Ast_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2763799
+Total steps (mil): 232.9
+
+Calculations took 37.3163 s to run
+1000K_CON_Ast_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Ast_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Ast_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Ast_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:44:57,428 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:44:58,791 INFO Node IDs are numbers: True
+2022-08-24 18:45:03,578 INFO num vertices=2329; num edges=2764373;
+2022-08-24 18:45:04,151 INFO done.
+1000K_CON_Ast_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2764373
+Total steps (mil): 232.9
+
+Calculations took 39.5558 s to run
+1000K_CON_Ast_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Ast_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Ast_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Ast_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:45:59,382 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:46:00,713 INFO Node IDs are numbers: True
+2022-08-24 18:46:05,459 INFO num vertices=2329; num edges=2763343;
+2022-08-24 18:46:06,055 INFO done.
+1000K_CON_Ast_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2763343
+Total steps (mil): 232.9
+
+Calculations took 37.4573 s to run
+1000K_CON_Ast_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Ast_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Ast_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Ast_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:46:58,840 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:47:00,242 INFO Node IDs are numbers: True
+2022-08-24 18:47:04,978 INFO num vertices=2329; num edges=2760411;
+2022-08-24 18:47:05,576 INFO done.
+1000K_CON_Ast_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2760411
+Total steps (mil): 232.9
+
+Calculations took 37.8924 s to run
+1000K_CON_Ast_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Ast_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_CON_End_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_End_raw: generate_weighted_edgelist finiehed
+2022-08-24 18:47:57,743 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:47:58,978 INFO Node IDs are numbers: True
+2022-08-24 18:48:03,361 INFO num vertices=2329; num edges=2525057;
+2022-08-24 18:48:03,898 INFO done.
+1000K_CON_End_raw: generate_bcsr finished
+nv: 2329, ne: 2525057
+Total steps (mil): 232.9
+
+Calculations took 36.9591 s to run
+1000K_CON_End_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_End_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_End_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_End_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:48:56,007 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:48:57,370 INFO Node IDs are numbers: True
+2022-08-24 18:49:02,148 INFO num vertices=2329; num edges=2745457;
+2022-08-24 18:49:02,751 INFO done.
+1000K_CON_End_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2745457
+Total steps (mil): 232.9
+
+Calculations took 39.5571 s to run
+1000K_CON_End_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_End_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_End_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_End_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:49:57,729 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:49:59,089 INFO Node IDs are numbers: True
+2022-08-24 18:50:03,962 INFO num vertices=2329; num edges=2775263;
+2022-08-24 18:50:04,557 INFO done.
+1000K_CON_End_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2775263
+Total steps (mil): 232.9
+
+Calculations took 37.8586 s to run
+1000K_CON_End_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_End_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_End_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_End_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:50:57,977 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:50:59,330 INFO Node IDs are numbers: True
+2022-08-24 18:51:04,111 INFO num vertices=2329; num edges=2775965;
+2022-08-24 18:51:04,700 INFO done.
+1000K_CON_End_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2775965
+Total steps (mil): 232.9
+
+Calculations took 38.7601 s to run
+1000K_CON_End_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_End_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_End_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_End_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:51:59,073 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:52:00,460 INFO Node IDs are numbers: True
+2022-08-24 18:52:05,324 INFO num vertices=2329; num edges=2805925;
+2022-08-24 18:52:05,927 INFO done.
+1000K_CON_End_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2805925
+Total steps (mil): 232.9
+
+Calculations took 38.2539 s to run
+1000K_CON_End_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_End_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_End_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_End_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:52:59,690 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:53:01,065 INFO Node IDs are numbers: True
+2022-08-24 18:53:05,884 INFO num vertices=2329; num edges=2781849;
+2022-08-24 18:53:06,477 INFO done.
+1000K_CON_End_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2781849
+Total steps (mil): 232.9
+
+Calculations took 37.7608 s to run
+1000K_CON_End_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_End_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_CON_Exc_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Exc_raw: generate_weighted_edgelist finiehed
+2022-08-24 18:53:57,852 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:53:59,072 INFO Node IDs are numbers: True
+2022-08-24 18:54:03,289 INFO num vertices=2329; num edges=2417915;
+2022-08-24 18:54:03,794 INFO done.
+1000K_CON_Exc_raw: generate_bcsr finished
+nv: 2329, ne: 2417915
+Total steps (mil): 232.9
+
+Calculations took 39.3207 s to run
+1000K_CON_Exc_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Exc_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Exc_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Exc_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:54:58,482 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:54:59,847 INFO Node IDs are numbers: True
+2022-08-24 18:55:04,588 INFO num vertices=2329; num edges=2733779;
+2022-08-24 18:55:05,164 INFO done.
+1000K_CON_Exc_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2733779
+Total steps (mil): 232.9
+
+Calculations took 39.8808 s to run
+1000K_CON_Exc_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Exc_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Exc_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Exc_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:56:00,335 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:56:01,693 INFO Node IDs are numbers: True
+2022-08-24 18:56:06,496 INFO num vertices=2329; num edges=2737891;
+2022-08-24 18:56:07,098 INFO done.
+1000K_CON_Exc_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2737891
+Total steps (mil): 232.9
+
+Calculations took 38.8532 s to run
+1000K_CON_Exc_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Exc_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Exc_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Exc_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:57:01,482 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:57:02,901 INFO Node IDs are numbers: True
+2022-08-24 18:57:07,775 INFO num vertices=2329; num edges=2762611;
+2022-08-24 18:57:08,363 INFO done.
+1000K_CON_Exc_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2762611
+Total steps (mil): 232.9
+
+Calculations took 37.9389 s to run
+1000K_CON_Exc_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Exc_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Exc_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Exc_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:58:01,650 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:58:03,017 INFO Node IDs are numbers: True
+2022-08-24 18:58:07,837 INFO num vertices=2329; num edges=2758305;
+2022-08-24 18:58:08,423 INFO done.
+1000K_CON_Exc_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2758305
+Total steps (mil): 232.9
+
+Calculations took 39.6651 s to run
+1000K_CON_Exc_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Exc_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Exc_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Exc_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 18:59:03,651 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 18:59:05,026 INFO Node IDs are numbers: True
+2022-08-24 18:59:09,933 INFO num vertices=2329; num edges=2765753;
+2022-08-24 18:59:10,519 INFO done.
+1000K_CON_Exc_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2765753
+Total steps (mil): 232.9
+
+Calculations took 39.669 s to run
+1000K_CON_Exc_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Exc_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_CON_Inh_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Inh_raw: generate_weighted_edgelist finiehed
+2022-08-24 19:00:00,202 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:00:00,985 INFO Node IDs are numbers: True
+2022-08-24 19:00:03,680 INFO num vertices=2329; num edges=1599567;
+2022-08-24 19:00:04,013 INFO done.
+1000K_CON_Inh_raw: generate_bcsr finished
+nv: 2329, ne: 1599567
+Total steps (mil): 232.9
+
+Calculations took 36.2246 s to run
+1000K_CON_Inh_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Inh_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Inh_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Inh_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:00:52,947 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:00:54,073 INFO Node IDs are numbers: True
+2022-08-24 19:00:57,868 INFO num vertices=2329; num edges=2237239;
+2022-08-24 19:00:58,347 INFO done.
+1000K_CON_Inh_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2237239
+Total steps (mil): 232.9
+
+Calculations took 37.1155 s to run
+1000K_CON_Inh_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Inh_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Inh_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Inh_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:01:49,017 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:01:50,219 INFO Node IDs are numbers: True
+2022-08-24 19:01:54,344 INFO num vertices=2329; num edges=2408715;
+2022-08-24 19:01:54,843 INFO done.
+1000K_CON_Inh_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2408715
+Total steps (mil): 232.9
+
+Calculations took 38.2115 s to run
+1000K_CON_Inh_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Inh_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Inh_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Inh_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:02:47,323 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:02:48,589 INFO Node IDs are numbers: True
+2022-08-24 19:02:52,961 INFO num vertices=2329; num edges=2545951;
+2022-08-24 19:02:53,423 INFO done.
+1000K_CON_Inh_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2545951
+Total steps (mil): 232.9
+
+Calculations took 39.5238 s to run
+1000K_CON_Inh_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Inh_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Inh_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Inh_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:03:47,656 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:03:48,962 INFO Node IDs are numbers: True
+2022-08-24 19:03:53,573 INFO num vertices=2329; num edges=2625657;
+2022-08-24 19:03:54,125 INFO done.
+1000K_CON_Inh_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2625657
+Total steps (mil): 232.9
+
+Calculations took 37.2571 s to run
+1000K_CON_Inh_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Inh_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Inh_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Inh_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:04:46,204 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:04:47,497 INFO Node IDs are numbers: True
+2022-08-24 19:04:52,085 INFO num vertices=2329; num edges=2665391;
+2022-08-24 19:04:52,661 INFO done.
+1000K_CON_Inh_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2665391
+Total steps (mil): 232.9
+
+Calculations took 38.6674 s to run
+1000K_CON_Inh_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Inh_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_CON_Mic_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Mic_raw: generate_weighted_edgelist finiehed
+2022-08-24 19:05:45,505 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:05:46,732 INFO Node IDs are numbers: True
+2022-08-24 19:05:51,095 INFO num vertices=2329; num edges=2525215;
+2022-08-24 19:05:51,544 INFO done.
+1000K_CON_Mic_raw: generate_bcsr finished
+nv: 2329, ne: 2525215
+Total steps (mil): 232.9
+
+Calculations took 39.1109 s to run
+1000K_CON_Mic_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Mic_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Mic_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Mic_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:06:46,626 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:06:48,075 INFO Node IDs are numbers: True
+2022-08-24 19:06:53,080 INFO num vertices=2329; num edges=2811797;
+2022-08-24 19:06:53,693 INFO done.
+1000K_CON_Mic_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2811797
+Total steps (mil): 232.9
+
+Calculations took 38.1202 s to run
+1000K_CON_Mic_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Mic_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Mic_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Mic_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:07:47,541 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:07:48,974 INFO Node IDs are numbers: True
+2022-08-24 19:07:53,844 INFO num vertices=2329; num edges=2825993;
+2022-08-24 19:07:54,449 INFO done.
+1000K_CON_Mic_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2825993
+Total steps (mil): 232.9
+
+Calculations took 37.9084 s to run
+1000K_CON_Mic_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Mic_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Mic_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Mic_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:08:48,317 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:08:49,745 INFO Node IDs are numbers: True
+2022-08-24 19:08:54,704 INFO num vertices=2329; num edges=2851301;
+2022-08-24 19:08:55,317 INFO done.
+1000K_CON_Mic_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2851301
+Total steps (mil): 232.9
+
+Calculations took 39.1809 s to run
+1000K_CON_Mic_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Mic_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Mic_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Mic_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:09:50,338 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:09:51,753 INFO Node IDs are numbers: True
+2022-08-24 19:09:56,713 INFO num vertices=2329; num edges=2846209;
+2022-08-24 19:09:57,320 INFO done.
+1000K_CON_Mic_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2846209
+Total steps (mil): 232.9
+
+Calculations took 39.2417 s to run
+1000K_CON_Mic_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Mic_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Mic_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Mic_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:10:52,369 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:10:53,772 INFO Node IDs are numbers: True
+2022-08-24 19:10:58,737 INFO num vertices=2329; num edges=2854603;
+2022-08-24 19:10:59,360 INFO done.
+1000K_CON_Mic_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2854603
+Total steps (mil): 232.9
+
+Calculations took 37.9621 s to run
+1000K_CON_Mic_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Mic_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_CON_Olig_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Olig_raw: generate_weighted_edgelist finiehed
+2022-08-24 19:11:52,020 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:11:53,326 INFO Node IDs are numbers: True
+2022-08-24 19:11:57,930 INFO num vertices=2329; num edges=2640797;
+2022-08-24 19:11:58,506 INFO done.
+1000K_CON_Olig_raw: generate_bcsr finished
+nv: 2329, ne: 2640797
+Total steps (mil): 232.9
+
+Calculations took 39.304 s to run
+1000K_CON_Olig_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Olig_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Olig_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Olig_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:12:53,315 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:12:54,677 INFO Node IDs are numbers: True
+2022-08-24 19:12:59,564 INFO num vertices=2329; num edges=2804177;
+2022-08-24 19:13:00,174 INFO done.
+1000K_CON_Olig_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2804177
+Total steps (mil): 232.9
+
+Calculations took 37.7683 s to run
+1000K_CON_Olig_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Olig_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Olig_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Olig_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:13:53,440 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:13:54,852 INFO Node IDs are numbers: True
+2022-08-24 19:13:59,767 INFO num vertices=2329; num edges=2811383;
+2022-08-24 19:14:00,372 INFO done.
+1000K_CON_Olig_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2811383
+Total steps (mil): 232.9
+
+Calculations took 37.6672 s to run
+1000K_CON_Olig_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Olig_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Olig_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Olig_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:14:53,544 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:14:54,939 INFO Node IDs are numbers: True
+2022-08-24 19:14:59,855 INFO num vertices=2329; num edges=2821045;
+2022-08-24 19:15:00,465 INFO done.
+1000K_CON_Olig_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2821045
+Total steps (mil): 232.9
+
+Calculations took 40.7518 s to run
+1000K_CON_Olig_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Olig_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Olig_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Olig_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:15:56,882 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:15:58,275 INFO Node IDs are numbers: True
+2022-08-24 19:16:03,151 INFO num vertices=2329; num edges=2825635;
+2022-08-24 19:16:03,772 INFO done.
+1000K_CON_Olig_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2825635
+Total steps (mil): 232.9
+
+Calculations took 40.1644 s to run
+1000K_CON_Olig_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Olig_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_Olig_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_Olig_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:16:59,499 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:17:00,938 INFO Node IDs are numbers: True
+2022-08-24 19:17:05,858 INFO num vertices=2329; num edges=2820395;
+2022-08-24 19:17:06,480 INFO done.
+1000K_CON_Olig_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2820395
+Total steps (mil): 232.9
+
+Calculations took 40.3948 s to run
+1000K_CON_Olig_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_Olig_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_CON_OPC_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_OPC_raw: generate_weighted_edgelist finiehed
+2022-08-24 19:18:01,391 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:18:02,669 INFO Node IDs are numbers: True
+2022-08-24 19:18:07,110 INFO num vertices=2329; num edges=2540595;
+2022-08-24 19:18:07,652 INFO done.
+1000K_CON_OPC_raw: generate_bcsr finished
+nv: 2329, ne: 2540595
+Total steps (mil): 232.9
+
+Calculations took 37.4919 s to run
+1000K_CON_OPC_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_OPC_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_OPC_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_OPC_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:19:01,319 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:19:02,749 INFO Node IDs are numbers: True
+2022-08-24 19:19:07,833 INFO num vertices=2329; num edges=2910391;
+2022-08-24 19:19:08,455 INFO done.
+1000K_CON_OPC_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2910391
+Total steps (mil): 232.9
+
+Calculations took 37.9509 s to run
+1000K_CON_OPC_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_OPC_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_OPC_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_OPC_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:20:02,622 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:20:04,081 INFO Node IDs are numbers: True
+2022-08-24 19:20:09,226 INFO num vertices=2329; num edges=2936881;
+2022-08-24 19:20:09,852 INFO done.
+1000K_CON_OPC_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2936881
+Total steps (mil): 232.9
+
+Calculations took 38.0267 s to run
+1000K_CON_OPC_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_OPC_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_OPC_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_OPC_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:21:04,334 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:21:05,801 INFO Node IDs are numbers: True
+2022-08-24 19:21:10,880 INFO num vertices=2329; num edges=2930995;
+2022-08-24 19:21:11,511 INFO done.
+1000K_CON_OPC_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2930995
+Total steps (mil): 232.9
+
+Calculations took 38.5897 s to run
+1000K_CON_OPC_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_OPC_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_OPC_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_OPC_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:22:06,400 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:22:07,869 INFO Node IDs are numbers: True
+2022-08-24 19:22:13,008 INFO num vertices=2329; num edges=2958195;
+2022-08-24 19:22:13,675 INFO done.
+1000K_CON_OPC_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2958195
+Total steps (mil): 232.9
+
+Calculations took 40.9687 s to run
+1000K_CON_OPC_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_OPC_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_CON_OPC_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_CON_OPC_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:23:10,977 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:23:12,458 INFO Node IDs are numbers: True
+2022-08-24 19:23:17,578 INFO num vertices=2329; num edges=2976983;
+2022-08-24 19:23:18,246 INFO done.
+1000K_CON_OPC_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2976983
+Total steps (mil): 232.9
+
+Calculations took 40.4831 s to run
+1000K_CON_OPC_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_CON_OPC_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_MDD_all_cell_type on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_all_cell_type: generate_weighted_edgelist finiehed
+2022-08-24 19:24:13,517 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:24:14,821 INFO Node IDs are numbers: True
+2022-08-24 19:24:19,442 INFO num vertices=2329; num edges=2635131;
+2022-08-24 19:24:19,990 INFO done.
+1000K_MDD_all_cell_type: generate_bcsr finished
+nv: 2329, ne: 2635131
+Total steps (mil): 232.9
+
+Calculations took 39.2103 s to run
+1000K_MDD_all_cell_type: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_all_cell_type: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Ast_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Ast_raw: generate_weighted_edgelist finiehed
+2022-08-24 19:25:13,584 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:25:14,828 INFO Node IDs are numbers: True
+2022-08-24 19:25:19,130 INFO num vertices=2329; num edges=2527993;
+2022-08-24 19:25:19,681 INFO done.
+1000K_MDD_Ast_raw: generate_bcsr finished
+nv: 2329, ne: 2527993
+Total steps (mil): 232.9
+
+Calculations took 36.9993 s to run
+1000K_MDD_Ast_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Ast_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Ast_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Ast_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:26:11,963 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:26:13,331 INFO Node IDs are numbers: True
+2022-08-24 19:26:18,134 INFO num vertices=2329; num edges=2761807;
+2022-08-24 19:26:18,725 INFO done.
+1000K_MDD_Ast_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2761807
+Total steps (mil): 232.9
+
+Calculations took 39.0235 s to run
+1000K_MDD_Ast_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Ast_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Ast_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Ast_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:27:13,150 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:27:14,505 INFO Node IDs are numbers: True
+2022-08-24 19:27:19,242 INFO num vertices=2329; num edges=2764563;
+2022-08-24 19:27:19,830 INFO done.
+1000K_MDD_Ast_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2764563
+Total steps (mil): 232.9
+
+Calculations took 37.4846 s to run
+1000K_MDD_Ast_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Ast_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Ast_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Ast_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:28:12,956 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:28:14,288 INFO Node IDs are numbers: True
+2022-08-24 19:28:19,098 INFO num vertices=2329; num edges=2758961;
+2022-08-24 19:28:19,674 INFO done.
+1000K_MDD_Ast_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2758961
+Total steps (mil): 232.9
+
+Calculations took 37.447 s to run
+1000K_MDD_Ast_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Ast_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Ast_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Ast_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:29:12,298 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:29:13,663 INFO Node IDs are numbers: True
+2022-08-24 19:29:18,443 INFO num vertices=2329; num edges=2764785;
+2022-08-24 19:29:19,037 INFO done.
+1000K_MDD_Ast_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2764785
+Total steps (mil): 232.9
+
+Calculations took 39.0152 s to run
+1000K_MDD_Ast_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Ast_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Ast_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Ast_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:30:13,577 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:30:14,965 INFO Node IDs are numbers: True
+2022-08-24 19:30:19,713 INFO num vertices=2329; num edges=2764897;
+2022-08-24 19:30:20,307 INFO done.
+1000K_MDD_Ast_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2764897
+Total steps (mil): 232.9
+
+Calculations took 39.021 s to run
+1000K_MDD_Ast_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Ast_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_MDD_End_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_End_raw: generate_weighted_edgelist finiehed
+2022-08-24 19:31:13,791 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:31:15,073 INFO Node IDs are numbers: True
+2022-08-24 19:31:19,414 INFO num vertices=2329; num edges=2522229;
+2022-08-24 19:31:19,950 INFO done.
+1000K_MDD_End_raw: generate_bcsr finished
+nv: 2329, ne: 2522229
+Total steps (mil): 232.9
+
+Calculations took 38.4463 s to run
+1000K_MDD_End_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_End_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_End_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_End_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:32:13,328 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:32:14,647 INFO Node IDs are numbers: True
+2022-08-24 19:32:19,394 INFO num vertices=2329; num edges=2717213;
+2022-08-24 19:32:19,987 INFO done.
+1000K_MDD_End_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2717213
+Total steps (mil): 232.9
+
+Calculations took 40.6981 s to run
+1000K_MDD_End_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_End_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_End_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_End_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:33:15,961 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:33:17,320 INFO Node IDs are numbers: True
+2022-08-24 19:33:22,144 INFO num vertices=2329; num edges=2742429;
+2022-08-24 19:33:22,731 INFO done.
+1000K_MDD_End_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2742429
+Total steps (mil): 232.9
+
+Calculations took 39.8358 s to run
+1000K_MDD_End_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_End_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_End_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_End_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:34:17,745 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:34:19,130 INFO Node IDs are numbers: True
+2022-08-24 19:34:23,938 INFO num vertices=2329; num edges=2747435;
+2022-08-24 19:34:24,524 INFO done.
+1000K_MDD_End_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2747435
+Total steps (mil): 232.9
+
+Calculations took 38.7361 s to run
+1000K_MDD_End_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_End_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_End_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_End_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:35:18,646 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:35:20,024 INFO Node IDs are numbers: True
+2022-08-24 19:35:24,816 INFO num vertices=2329; num edges=2751503;
+2022-08-24 19:35:25,406 INFO done.
+1000K_MDD_End_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2751503
+Total steps (mil): 232.9
+
+Calculations took 40.5064 s to run
+1000K_MDD_End_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_End_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_End_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_End_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:36:21,244 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:36:22,655 INFO Node IDs are numbers: True
+2022-08-24 19:36:27,507 INFO num vertices=2329; num edges=2750705;
+2022-08-24 19:36:28,094 INFO done.
+1000K_MDD_End_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2750705
+Total steps (mil): 232.9
+
+Calculations took 38.6014 s to run
+1000K_MDD_End_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_End_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_MDD_Exc_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Exc_raw: generate_weighted_edgelist finiehed
+2022-08-24 19:37:18,332 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:37:19,261 INFO Node IDs are numbers: True
+2022-08-24 19:37:22,653 INFO num vertices=2329; num edges=1954763;
+2022-08-24 19:37:23,071 INFO done.
+1000K_MDD_Exc_raw: generate_bcsr finished
+nv: 2329, ne: 1954763
+Total steps (mil): 232.9
+
+Calculations took 35.6859 s to run
+1000K_MDD_Exc_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Exc_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Exc_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Exc_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:38:13,134 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:38:14,403 INFO Node IDs are numbers: True
+2022-08-24 19:38:18,867 INFO num vertices=2329; num edges=2562921;
+2022-08-24 19:38:19,411 INFO done.
+1000K_MDD_Exc_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2562921
+Total steps (mil): 232.9
+
+Calculations took 39.3359 s to run
+1000K_MDD_Exc_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Exc_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Exc_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Exc_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:39:13,562 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:39:14,859 INFO Node IDs are numbers: True
+2022-08-24 19:39:19,487 INFO num vertices=2329; num edges=2645021;
+2022-08-24 19:39:20,048 INFO done.
+1000K_MDD_Exc_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2645021
+Total steps (mil): 232.9
+
+Calculations took 37.9712 s to run
+1000K_MDD_Exc_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Exc_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Exc_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Exc_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:40:13,308 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:40:14,646 INFO Node IDs are numbers: True
+2022-08-24 19:40:19,367 INFO num vertices=2329; num edges=2728583;
+2022-08-24 19:40:19,960 INFO done.
+1000K_MDD_Exc_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2728583
+Total steps (mil): 232.9
+
+Calculations took 37.7542 s to run
+1000K_MDD_Exc_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Exc_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Exc_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Exc_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:41:13,008 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:41:14,369 INFO Node IDs are numbers: True
+2022-08-24 19:41:19,165 INFO num vertices=2329; num edges=2749211;
+2022-08-24 19:41:19,764 INFO done.
+1000K_MDD_Exc_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2749211
+Total steps (mil): 232.9
+
+Calculations took 40.1771 s to run
+1000K_MDD_Exc_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Exc_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Exc_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Exc_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:42:15,342 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:42:16,730 INFO Node IDs are numbers: True
+2022-08-24 19:42:21,601 INFO num vertices=2329; num edges=2782149;
+2022-08-24 19:42:22,195 INFO done.
+1000K_MDD_Exc_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2782149
+Total steps (mil): 232.9
+
+Calculations took 37.8115 s to run
+1000K_MDD_Exc_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Exc_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_MDD_Inh_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Inh_raw: generate_weighted_edgelist finiehed
+2022-08-24 19:43:14,512 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:43:15,815 INFO Node IDs are numbers: True
+2022-08-24 19:43:20,278 INFO num vertices=2329; num edges=2579041;
+2022-08-24 19:43:20,847 INFO done.
+1000K_MDD_Inh_raw: generate_bcsr finished
+nv: 2329, ne: 2579041
+Total steps (mil): 232.9
+
+Calculations took 38.3799 s to run
+1000K_MDD_Inh_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Inh_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Inh_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Inh_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:44:14,507 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:44:15,904 INFO Node IDs are numbers: True
+2022-08-24 19:44:20,782 INFO num vertices=2329; num edges=2770529;
+2022-08-24 19:44:21,380 INFO done.
+1000K_MDD_Inh_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2770529
+Total steps (mil): 232.9
+
+Calculations took 37.4813 s to run
+1000K_MDD_Inh_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Inh_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Inh_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Inh_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:45:14,241 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:45:15,647 INFO Node IDs are numbers: True
+2022-08-24 19:45:20,517 INFO num vertices=2329; num edges=2777251;
+2022-08-24 19:45:21,118 INFO done.
+1000K_MDD_Inh_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2777251
+Total steps (mil): 232.9
+
+Calculations took 38.1149 s to run
+1000K_MDD_Inh_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Inh_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Inh_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Inh_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:46:14,884 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:46:16,278 INFO Node IDs are numbers: True
+2022-08-24 19:46:21,216 INFO num vertices=2329; num edges=2797869;
+2022-08-24 19:46:21,825 INFO done.
+1000K_MDD_Inh_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2797869
+Total steps (mil): 232.9
+
+Calculations took 38.7978 s to run
+1000K_MDD_Inh_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Inh_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Inh_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Inh_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:47:16,460 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:47:17,833 INFO Node IDs are numbers: True
+2022-08-24 19:47:22,786 INFO num vertices=2329; num edges=2783473;
+2022-08-24 19:47:23,375 INFO done.
+1000K_MDD_Inh_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2783473
+Total steps (mil): 232.9
+
+Calculations took 38.2722 s to run
+1000K_MDD_Inh_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Inh_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Inh_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Inh_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:48:16,919 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:48:18,290 INFO Node IDs are numbers: True
+2022-08-24 19:48:23,193 INFO num vertices=2329; num edges=2776987;
+2022-08-24 19:48:23,776 INFO done.
+1000K_MDD_Inh_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2776987
+Total steps (mil): 232.9
+
+Calculations took 38.1838 s to run
+1000K_MDD_Inh_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Inh_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_MDD_Mic_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Mic_raw: generate_weighted_edgelist finiehed
+2022-08-24 19:49:16,748 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:49:18,110 INFO Node IDs are numbers: True
+2022-08-24 19:49:22,722 INFO num vertices=2329; num edges=2629835;
+2022-08-24 19:49:23,280 INFO done.
+1000K_MDD_Mic_raw: generate_bcsr finished
+nv: 2329, ne: 2629835
+Total steps (mil): 232.9
+
+Calculations took 38.9582 s to run
+1000K_MDD_Mic_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Mic_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Mic_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Mic_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:50:17,566 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:50:18,954 INFO Node IDs are numbers: True
+2022-08-24 19:50:23,852 INFO num vertices=2329; num edges=2781753;
+2022-08-24 19:50:24,452 INFO done.
+1000K_MDD_Mic_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2781753
+Total steps (mil): 232.9
+
+Calculations took 38.3135 s to run
+1000K_MDD_Mic_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Mic_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Mic_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Mic_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:51:18,238 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:51:19,600 INFO Node IDs are numbers: True
+2022-08-24 19:51:24,422 INFO num vertices=2329; num edges=2787471;
+2022-08-24 19:51:25,033 INFO done.
+1000K_MDD_Mic_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2787471
+Total steps (mil): 232.9
+
+Calculations took 40.6143 s to run
+1000K_MDD_Mic_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Mic_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Mic_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Mic_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:52:21,113 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:52:22,508 INFO Node IDs are numbers: True
+2022-08-24 19:52:27,351 INFO num vertices=2329; num edges=2764677;
+2022-08-24 19:52:27,937 INFO done.
+1000K_MDD_Mic_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2764677
+Total steps (mil): 232.9
+
+Calculations took 38.2484 s to run
+1000K_MDD_Mic_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Mic_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Mic_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Mic_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:53:21,615 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:53:22,964 INFO Node IDs are numbers: True
+2022-08-24 19:53:27,732 INFO num vertices=2329; num edges=2759665;
+2022-08-24 19:53:28,340 INFO done.
+1000K_MDD_Mic_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2759665
+Total steps (mil): 232.9
+
+Calculations took 37.735 s to run
+1000K_MDD_Mic_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Mic_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Mic_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Mic_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:54:21,769 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:54:23,137 INFO Node IDs are numbers: True
+2022-08-24 19:54:27,922 INFO num vertices=2329; num edges=2782053;
+2022-08-24 19:54:28,513 INFO done.
+1000K_MDD_Mic_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2782053
+Total steps (mil): 232.9
+
+Calculations took 38.4715 s to run
+1000K_MDD_Mic_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Mic_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_MDD_Olig_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Olig_raw: generate_weighted_edgelist finiehed
+2022-08-24 19:55:21,950 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:55:23,276 INFO Node IDs are numbers: True
+2022-08-24 19:55:27,909 INFO num vertices=2329; num edges=2655839;
+2022-08-24 19:55:28,474 INFO done.
+1000K_MDD_Olig_raw: generate_bcsr finished
+nv: 2329, ne: 2655839
+Total steps (mil): 232.9
+
+Calculations took 37.552 s to run
+1000K_MDD_Olig_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Olig_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Olig_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Olig_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:56:21,477 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:56:22,871 INFO Node IDs are numbers: True
+2022-08-24 19:56:27,832 INFO num vertices=2329; num edges=2799351;
+2022-08-24 19:56:28,441 INFO done.
+1000K_MDD_Olig_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2799351
+Total steps (mil): 232.9
+
+Calculations took 39.6094 s to run
+1000K_MDD_Olig_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Olig_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Olig_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Olig_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:57:23,570 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:57:24,971 INFO Node IDs are numbers: True
+2022-08-24 19:57:29,900 INFO num vertices=2329; num edges=2808853;
+2022-08-24 19:57:30,501 INFO done.
+1000K_MDD_Olig_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2808853
+Total steps (mil): 232.9
+
+Calculations took 38.4963 s to run
+1000K_MDD_Olig_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Olig_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Olig_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Olig_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:58:24,683 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:58:26,095 INFO Node IDs are numbers: True
+2022-08-24 19:58:31,000 INFO num vertices=2329; num edges=2795553;
+2022-08-24 19:58:31,584 INFO done.
+1000K_MDD_Olig_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2795553
+Total steps (mil): 232.9
+
+Calculations took 40.0377 s to run
+1000K_MDD_Olig_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Olig_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Olig_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Olig_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 19:59:27,141 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 19:59:28,555 INFO Node IDs are numbers: True
+2022-08-24 19:59:33,455 INFO num vertices=2329; num edges=2793935;
+2022-08-24 19:59:34,246 INFO done.
+1000K_MDD_Olig_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2793935
+Total steps (mil): 232.9
+
+Calculations took 40.2902 s to run
+1000K_MDD_Olig_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Olig_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_Olig_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_Olig_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:00:30,128 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:00:31,521 INFO Node IDs are numbers: True
+2022-08-24 20:00:36,378 INFO num vertices=2329; num edges=2798333;
+2022-08-24 20:00:36,956 INFO done.
+1000K_MDD_Olig_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2798333
+Total steps (mil): 232.9
+
+Calculations took 39.1374 s to run
+1000K_MDD_Olig_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_Olig_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_MDD_OPC_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_OPC_raw: generate_weighted_edgelist finiehed
+2022-08-24 20:01:30,833 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:01:32,133 INFO Node IDs are numbers: True
+2022-08-24 20:01:36,654 INFO num vertices=2329; num edges=2594027;
+2022-08-24 20:01:37,190 INFO done.
+1000K_MDD_OPC_raw: generate_bcsr finished
+nv: 2329, ne: 2594027
+Total steps (mil): 232.9
+
+Calculations took 39.2901 s to run
+1000K_MDD_OPC_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_OPC_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_OPC_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_OPC_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:02:32,464 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:02:33,877 INFO Node IDs are numbers: True
+2022-08-24 20:02:38,951 INFO num vertices=2329; num edges=2877827;
+2022-08-24 20:02:39,607 INFO done.
+1000K_MDD_OPC_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2877827
+Total steps (mil): 232.9
+
+Calculations took 39.0072 s to run
+1000K_MDD_OPC_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_OPC_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_OPC_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_OPC_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:03:34,884 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:03:36,348 INFO Node IDs are numbers: True
+2022-08-24 20:03:41,393 INFO num vertices=2329; num edges=2894589;
+2022-08-24 20:03:42,020 INFO done.
+1000K_MDD_OPC_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2894589
+Total steps (mil): 232.9
+
+Calculations took 40.9086 s to run
+1000K_MDD_OPC_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_OPC_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_OPC_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_OPC_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:04:38,936 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:04:40,377 INFO Node IDs are numbers: True
+2022-08-24 20:04:45,456 INFO num vertices=2329; num edges=2899825;
+2022-08-24 20:04:46,082 INFO done.
+1000K_MDD_OPC_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2899825
+Total steps (mil): 232.9
+
+Calculations took 40.0692 s to run
+1000K_MDD_OPC_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_OPC_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_OPC_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_OPC_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:05:43,404 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:05:44,862 INFO Node IDs are numbers: True
+2022-08-24 20:05:49,895 INFO num vertices=2329; num edges=2901517;
+2022-08-24 20:05:50,821 INFO done.
+1000K_MDD_OPC_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2901517
+Total steps (mil): 232.9
+
+Calculations took 41.3964 s to run
+1000K_MDD_OPC_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_OPC_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_MDD_OPC_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_MDD_OPC_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:06:50,881 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:06:52,371 INFO Node IDs are numbers: True
+2022-08-24 20:06:57,493 INFO num vertices=2329; num edges=2909141;
+2022-08-24 20:06:58,314 INFO done.
+1000K_MDD_OPC_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2909141
+Total steps (mil): 232.9
+
+Calculations took 38.5246 s to run
+1000K_MDD_OPC_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_MDD_OPC_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_PTSD_all_cell_type on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_all_cell_type: generate_weighted_edgelist finiehed
+2022-08-24 20:07:52,933 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:07:54,223 INFO Node IDs are numbers: True
+2022-08-24 20:07:58,772 INFO num vertices=2329; num edges=2597823;
+2022-08-24 20:07:59,327 INFO done.
+1000K_PTSD_all_cell_type: generate_bcsr finished
+nv: 2329, ne: 2597823
+Total steps (mil): 232.9
+
+Calculations took 37.2235 s to run
+1000K_PTSD_all_cell_type: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_all_cell_type: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Ast_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Ast_raw: generate_weighted_edgelist finiehed
+2022-08-24 20:08:52,389 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:08:53,672 INFO Node IDs are numbers: True
+2022-08-24 20:08:58,004 INFO num vertices=2329; num edges=2548287;
+2022-08-24 20:08:58,537 INFO done.
+1000K_PTSD_Ast_raw: generate_bcsr finished
+nv: 2329, ne: 2548287
+Total steps (mil): 232.9
+
+Calculations took 38.5141 s to run
+1000K_PTSD_Ast_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Ast_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Ast_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Ast_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:09:53,112 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:09:54,461 INFO Node IDs are numbers: True
+2022-08-24 20:09:59,180 INFO num vertices=2329; num edges=2749677;
+2022-08-24 20:09:59,777 INFO done.
+1000K_PTSD_Ast_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2749677
+Total steps (mil): 232.9
+
+Calculations took 38.4631 s to run
+1000K_PTSD_Ast_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Ast_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Ast_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Ast_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:10:54,435 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:10:55,812 INFO Node IDs are numbers: True
+2022-08-24 20:11:00,506 INFO num vertices=2329; num edges=2751967;
+2022-08-24 20:11:01,288 INFO done.
+1000K_PTSD_Ast_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2751967
+Total steps (mil): 232.9
+
+Calculations took 38.4101 s to run
+1000K_PTSD_Ast_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Ast_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Ast_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Ast_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:11:57,639 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:11:59,012 INFO Node IDs are numbers: True
+2022-08-24 20:12:03,947 INFO num vertices=2329; num edges=2748543;
+2022-08-24 20:12:05,048 INFO done.
+1000K_PTSD_Ast_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2748543
+Total steps (mil): 232.9
+
+Calculations took 38.0856 s to run
+1000K_PTSD_Ast_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Ast_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Ast_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Ast_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:13:02,181 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:13:03,552 INFO Node IDs are numbers: True
+2022-08-24 20:13:08,277 INFO num vertices=2329; num edges=2751777;
+2022-08-24 20:13:08,862 INFO done.
+1000K_PTSD_Ast_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2751777
+Total steps (mil): 232.9
+
+Calculations took 38.4029 s to run
+1000K_PTSD_Ast_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Ast_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Ast_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Ast_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:14:04,157 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:14:05,515 INFO Node IDs are numbers: True
+2022-08-24 20:14:10,257 INFO num vertices=2329; num edges=2751073;
+2022-08-24 20:14:11,098 INFO done.
+1000K_PTSD_Ast_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2751073
+Total steps (mil): 232.9
+
+Calculations took 40.3369 s to run
+1000K_PTSD_Ast_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Ast_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_PTSD_End_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_End_raw: generate_weighted_edgelist finiehed
+2022-08-24 20:15:07,420 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:15:08,680 INFO Node IDs are numbers: True
+2022-08-24 20:15:12,912 INFO num vertices=2329; num edges=2481471;
+2022-08-24 20:15:13,461 INFO done.
+1000K_PTSD_End_raw: generate_bcsr finished
+nv: 2329, ne: 2481471
+Total steps (mil): 232.9
+
+Calculations took 37.5829 s to run
+1000K_PTSD_End_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_End_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_End_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_End_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:16:10,429 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:16:11,854 INFO Node IDs are numbers: True
+2022-08-24 20:16:16,740 INFO num vertices=2329; num edges=2784187;
+2022-08-24 20:16:17,514 INFO done.
+1000K_PTSD_End_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2784187
+Total steps (mil): 232.9
+
+Calculations took 39.8142 s to run
+1000K_PTSD_End_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_End_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_End_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_End_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:17:14,866 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:17:16,235 INFO Node IDs are numbers: True
+2022-08-24 20:17:21,154 INFO num vertices=2329; num edges=2812903;
+2022-08-24 20:17:21,762 INFO done.
+1000K_PTSD_End_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2812903
+Total steps (mil): 232.9
+
+Calculations took 38.6895 s to run
+1000K_PTSD_End_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_End_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_End_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_End_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:18:19,356 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:18:20,968 INFO Node IDs are numbers: True
+2022-08-24 20:18:25,860 INFO num vertices=2329; num edges=2803955;
+2022-08-24 20:18:26,960 INFO done.
+1000K_PTSD_End_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2803955
+Total steps (mil): 232.9
+
+Calculations took 38.5223 s to run
+1000K_PTSD_End_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_End_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_End_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_End_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:19:23,048 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:19:24,449 INFO Node IDs are numbers: True
+2022-08-24 20:19:29,318 INFO num vertices=2329; num edges=2793107;
+2022-08-24 20:19:29,930 INFO done.
+1000K_PTSD_End_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2793107
+Total steps (mil): 232.9
+
+Calculations took 40.4712 s to run
+1000K_PTSD_End_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_End_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_End_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_End_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:20:30,051 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:20:31,453 INFO Node IDs are numbers: True
+2022-08-24 20:20:36,369 INFO num vertices=2329; num edges=2838927;
+2022-08-24 20:20:37,297 INFO done.
+1000K_PTSD_End_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2838927
+Total steps (mil): 232.9
+
+Calculations took 41.485 s to run
+1000K_PTSD_End_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_End_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_PTSD_Exc_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Exc_raw: generate_weighted_edgelist finiehed
+2022-08-24 20:21:31,706 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:21:32,646 INFO Node IDs are numbers: True
+2022-08-24 20:21:35,865 INFO num vertices=2329; num edges=1893555;
+2022-08-24 20:21:36,269 INFO done.
+1000K_PTSD_Exc_raw: generate_bcsr finished
+nv: 2329, ne: 1893555
+Total steps (mil): 232.9
+
+Calculations took 36.4599 s to run
+1000K_PTSD_Exc_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Exc_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Exc_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Exc_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:22:29,152 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:22:30,393 INFO Node IDs are numbers: True
+2022-08-24 20:22:34,695 INFO num vertices=2329; num edges=2514619;
+2022-08-24 20:22:35,905 INFO done.
+1000K_PTSD_Exc_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2514619
+Total steps (mil): 232.9
+
+Calculations took 39.3873 s to run
+1000K_PTSD_Exc_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Exc_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Exc_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Exc_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:23:31,601 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:23:32,915 INFO Node IDs are numbers: True
+2022-08-24 20:23:37,534 INFO num vertices=2329; num edges=2615943;
+2022-08-24 20:23:38,081 INFO done.
+1000K_PTSD_Exc_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2615943
+Total steps (mil): 232.9
+
+Calculations took 39.4043 s to run
+1000K_PTSD_Exc_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Exc_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Exc_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Exc_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:24:36,287 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:24:37,606 INFO Node IDs are numbers: True
+2022-08-24 20:24:42,203 INFO num vertices=2329; num edges=2683429;
+2022-08-24 20:24:42,802 INFO done.
+1000K_PTSD_Exc_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2683429
+Total steps (mil): 232.9
+
+Calculations took 37.5241 s to run
+1000K_PTSD_Exc_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Exc_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Exc_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Exc_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:25:35,638 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:25:36,961 INFO Node IDs are numbers: True
+2022-08-24 20:25:41,650 INFO num vertices=2329; num edges=2699427;
+2022-08-24 20:25:42,215 INFO done.
+1000K_PTSD_Exc_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2699427
+Total steps (mil): 232.9
+
+Calculations took 39.9043 s to run
+1000K_PTSD_Exc_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Exc_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Exc_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Exc_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:26:39,218 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:26:40,575 INFO Node IDs are numbers: True
+2022-08-24 20:26:45,312 INFO num vertices=2329; num edges=2704141;
+2022-08-24 20:26:45,884 INFO done.
+1000K_PTSD_Exc_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2704141
+Total steps (mil): 232.9
+
+Calculations took 39.293 s to run
+1000K_PTSD_Exc_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Exc_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_PTSD_Inh_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Inh_raw: generate_weighted_edgelist finiehed
+2022-08-24 20:27:40,236 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:27:41,474 INFO Node IDs are numbers: True
+2022-08-24 20:27:45,785 INFO num vertices=2329; num edges=2505361;
+2022-08-24 20:27:46,310 INFO done.
+1000K_PTSD_Inh_raw: generate_bcsr finished
+nv: 2329, ne: 2505361
+Total steps (mil): 232.9
+
+Calculations took 37.486 s to run
+1000K_PTSD_Inh_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Inh_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Inh_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Inh_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:28:43,794 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:28:45,210 INFO Node IDs are numbers: True
+2022-08-24 20:28:50,193 INFO num vertices=2329; num edges=2834995;
+2022-08-24 20:28:51,280 INFO done.
+1000K_PTSD_Inh_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2834995
+Total steps (mil): 232.9
+
+Calculations took 40.8923 s to run
+1000K_PTSD_Inh_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Inh_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Inh_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Inh_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:29:50,313 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:29:51,738 INFO Node IDs are numbers: True
+2022-08-24 20:29:56,762 INFO num vertices=2329; num edges=2857029;
+2022-08-24 20:29:57,598 INFO done.
+1000K_PTSD_Inh_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2857029
+Total steps (mil): 232.9
+
+Calculations took 38.6606 s to run
+1000K_PTSD_Inh_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Inh_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Inh_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Inh_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:30:55,768 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:30:57,168 INFO Node IDs are numbers: True
+2022-08-24 20:31:02,176 INFO num vertices=2329; num edges=2860153;
+2022-08-24 20:31:02,965 INFO done.
+1000K_PTSD_Inh_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2860153
+Total steps (mil): 232.9
+
+Calculations took 39.3019 s to run
+1000K_PTSD_Inh_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Inh_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Inh_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Inh_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:31:59,593 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:32:01,004 INFO Node IDs are numbers: True
+2022-08-24 20:32:06,020 INFO num vertices=2329; num edges=2867255;
+2022-08-24 20:32:06,788 INFO done.
+1000K_PTSD_Inh_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2867255
+Total steps (mil): 232.9
+
+Calculations took 39.7022 s to run
+1000K_PTSD_Inh_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Inh_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Inh_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Inh_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:33:03,976 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:33:05,410 INFO Node IDs are numbers: True
+2022-08-24 20:33:10,374 INFO num vertices=2329; num edges=2859383;
+2022-08-24 20:33:11,114 INFO done.
+1000K_PTSD_Inh_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2859383
+Total steps (mil): 232.9
+
+Calculations took 38.6444 s to run
+1000K_PTSD_Inh_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Inh_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_PTSD_Mic_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Mic_raw: generate_weighted_edgelist finiehed
+2022-08-24 20:34:07,796 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:34:09,122 INFO Node IDs are numbers: True
+2022-08-24 20:34:13,745 INFO num vertices=2329; num edges=2639139;
+2022-08-24 20:34:14,299 INFO done.
+1000K_PTSD_Mic_raw: generate_bcsr finished
+nv: 2329, ne: 2639139
+Total steps (mil): 232.9
+
+Calculations took 37.6713 s to run
+1000K_PTSD_Mic_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Mic_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Mic_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Mic_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:35:07,909 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:35:09,306 INFO Node IDs are numbers: True
+2022-08-24 20:35:14,309 INFO num vertices=2329; num edges=2846001;
+2022-08-24 20:35:15,203 INFO done.
+1000K_PTSD_Mic_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2846001
+Total steps (mil): 232.9
+
+Calculations took 39.8671 s to run
+1000K_PTSD_Mic_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Mic_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Mic_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Mic_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:36:11,734 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:36:13,132 INFO Node IDs are numbers: True
+2022-08-24 20:36:18,077 INFO num vertices=2329; num edges=2851803;
+2022-08-24 20:36:18,762 INFO done.
+1000K_PTSD_Mic_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2851803
+Total steps (mil): 232.9
+
+Calculations took 39.9438 s to run
+1000K_PTSD_Mic_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Mic_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Mic_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Mic_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:37:16,599 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:37:17,997 INFO Node IDs are numbers: True
+2022-08-24 20:37:23,029 INFO num vertices=2329; num edges=2882255;
+2022-08-24 20:37:23,855 INFO done.
+1000K_PTSD_Mic_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2882255
+Total steps (mil): 232.9
+
+Calculations took 38.0969 s to run
+1000K_PTSD_Mic_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Mic_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Mic_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Mic_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:38:19,293 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:38:20,711 INFO Node IDs are numbers: True
+2022-08-24 20:38:25,653 INFO num vertices=2329; num edges=2868093;
+2022-08-24 20:38:26,571 INFO done.
+1000K_PTSD_Mic_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2868093
+Total steps (mil): 232.9
+
+Calculations took 41.233 s to run
+1000K_PTSD_Mic_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Mic_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Mic_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Mic_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:39:24,113 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:39:25,523 INFO Node IDs are numbers: True
+2022-08-24 20:39:30,522 INFO num vertices=2329; num edges=2866949;
+2022-08-24 20:39:31,322 INFO done.
+1000K_PTSD_Mic_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2866949
+Total steps (mil): 232.9
+
+Calculations took 38.651 s to run
+1000K_PTSD_Mic_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Mic_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_PTSD_Olig_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Olig_raw: generate_weighted_edgelist finiehed
+2022-08-24 20:40:25,859 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:40:27,175 INFO Node IDs are numbers: True
+2022-08-24 20:40:31,845 INFO num vertices=2329; num edges=2662383;
+2022-08-24 20:40:32,506 INFO done.
+1000K_PTSD_Olig_raw: generate_bcsr finished
+nv: 2329, ne: 2662383
+Total steps (mil): 232.9
+
+Calculations took 40.186 s to run
+1000K_PTSD_Olig_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Olig_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Olig_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Olig_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:41:30,984 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:41:32,398 INFO Node IDs are numbers: True
+2022-08-24 20:41:37,304 INFO num vertices=2329; num edges=2813195;
+2022-08-24 20:41:38,193 INFO done.
+1000K_PTSD_Olig_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2813195
+Total steps (mil): 232.9
+
+Calculations took 41.373 s to run
+1000K_PTSD_Olig_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Olig_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Olig_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Olig_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:42:36,816 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:42:38,213 INFO Node IDs are numbers: True
+2022-08-24 20:42:43,127 INFO num vertices=2329; num edges=2820829;
+2022-08-24 20:42:43,929 INFO done.
+1000K_PTSD_Olig_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2820829
+Total steps (mil): 232.9
+
+Calculations took 38.2344 s to run
+1000K_PTSD_Olig_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Olig_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Olig_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Olig_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:43:40,287 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:43:41,691 INFO Node IDs are numbers: True
+2022-08-24 20:43:46,812 INFO num vertices=2329; num edges=2823315;
+2022-08-24 20:43:47,660 INFO done.
+1000K_PTSD_Olig_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2823315
+Total steps (mil): 232.9
+
+Calculations took 38.7456 s to run
+1000K_PTSD_Olig_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Olig_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Olig_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Olig_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:44:44,924 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:44:46,332 INFO Node IDs are numbers: True
+2022-08-24 20:44:51,283 INFO num vertices=2329; num edges=2846059;
+2022-08-24 20:44:52,163 INFO done.
+1000K_PTSD_Olig_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2846059
+Total steps (mil): 232.9
+
+Calculations took 41.0288 s to run
+1000K_PTSD_Olig_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Olig_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_Olig_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_Olig_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:45:49,604 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:45:51,012 INFO Node IDs are numbers: True
+2022-08-24 20:45:55,904 INFO num vertices=2329; num edges=2823871;
+2022-08-24 20:45:56,693 INFO done.
+1000K_PTSD_Olig_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2823871
+Total steps (mil): 232.9
+
+Calculations took 38.4516 s to run
+1000K_PTSD_Olig_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_Olig_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
+Running VERSE 1000K_PTSD_OPC_raw on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_OPC_raw: generate_weighted_edgelist finiehed
+2022-08-24 20:46:53,789 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:46:55,121 INFO Node IDs are numbers: True
+2022-08-24 20:46:59,761 INFO num vertices=2329; num edges=2643933;
+2022-08-24 20:47:00,334 INFO done.
+1000K_PTSD_OPC_raw: generate_bcsr finished
+nv: 2329, ne: 2643933
+Total steps (mil): 232.9
+
+Calculations took 37.619 s to run
+1000K_PTSD_OPC_raw: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_OPC_raw: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_OPC_20_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_OPC_20_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:47:54,135 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:47:55,591 INFO Node IDs are numbers: True
+2022-08-24 20:48:00,682 INFO num vertices=2329; num edges=2914011;
+2022-08-24 20:48:01,310 INFO done.
+1000K_PTSD_OPC_20_metacell: generate_bcsr finished
+nv: 2329, ne: 2914011
+Total steps (mil): 232.9
+
+Calculations took 39.9173 s to run
+1000K_PTSD_OPC_20_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_OPC_20_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_OPC_50_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_OPC_50_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:48:59,860 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:49:01,323 INFO Node IDs are numbers: True
+2022-08-24 20:49:06,455 INFO num vertices=2329; num edges=2924667;
+2022-08-24 20:49:07,265 INFO done.
+1000K_PTSD_OPC_50_metacell: generate_bcsr finished
+nv: 2329, ne: 2924667
+Total steps (mil): 232.9
+
+Calculations took 39.9137 s to run
+1000K_PTSD_OPC_50_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_OPC_50_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_OPC_100_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_OPC_100_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:50:05,456 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:50:06,906 INFO Node IDs are numbers: True
+2022-08-24 20:50:11,987 INFO num vertices=2329; num edges=2951403;
+2022-08-24 20:50:12,640 INFO done.
+1000K_PTSD_OPC_100_metacell: generate_bcsr finished
+nv: 2329, ne: 2951403
+Total steps (mil): 232.9
+
+Calculations took 40.3667 s to run
+1000K_PTSD_OPC_100_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_OPC_100_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_OPC_150_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_OPC_150_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:51:09,396 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:51:10,855 INFO Node IDs are numbers: True
+2022-08-24 20:51:15,985 INFO num vertices=2329; num edges=2958795;
+2022-08-24 20:51:16,624 INFO done.
+1000K_PTSD_OPC_150_metacell: generate_bcsr finished
+nv: 2329, ne: 2958795
+Total steps (mil): 232.9
+
+Calculations took 39.8827 s to run
+1000K_PTSD_OPC_150_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_OPC_150_metacell: save_embeddings finished
+----------------------------------------------------
+
+Running VERSE 1000K_PTSD_OPC_200_metacell on galaxy
+corr shape:  (2329, 2329)
+1000K_PTSD_OPC_200_metacell: generate_weighted_edgelist finiehed
+2022-08-24 20:52:15,818 INFO convert graph from /auto/grad_space/zihend1/tmp/tmp.weighted.edgelist to /auto/grad_space/zihend1/tmp/tmp.bcsr
+2022-08-24 20:52:17,298 INFO Node IDs are numbers: True
+2022-08-24 20:52:22,494 INFO num vertices=2329; num edges=2988793;
+2022-08-24 20:52:23,354 INFO done.
+1000K_PTSD_OPC_200_metacell: generate_bcsr finished
+nv: 2329, ne: 2988793
+Total steps (mil): 232.9
+
+Calculations took 40.9238 s to run
+1000K_PTSD_OPC_200_metacell: generate_embeddings finished
+Loading embeddings...
+Done loading embeddings (shape: (2329, 32)).
+1000K_PTSD_OPC_200_metacell: save_embeddings finished
+----------------------------------------------------
+
+
+
