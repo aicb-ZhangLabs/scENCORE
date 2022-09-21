@@ -10,7 +10,7 @@ Clone the repository.
 git clone https://github.com/aicb-ZhangLabs/scENCORE.git
 ```
 ## Code
-We use **verse** to perform graph embedding, the parameters are the same.
+We use **verse** to perform graph embedding.
 For more details, please refer to the **verse-master** folder.
 
 The **tool** folder contains various scripts for running scENCORE, as well as log files under different parameters.
