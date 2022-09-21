@@ -9,3 +9,6 @@ Clone the repository.
 ```
 git clone https://github.com/aicb-ZhangLabs/scENCORE.git
 ```
+
+We use **verse** to perform graph embedding, the parameters are the same.
+For more details, please refer to verse-master.
